@@ -1,0 +1,29 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color:cornflowerblue;
+}
+
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main > h1 {
+  text-align: center;
+  font-size: 3.5em;
+}
+#pic{
+  text-align: center;
+  padding-left: 50px;
+  padding-bottom: 5%;
+}
+a {
+  padding-left: 255px;
+}
